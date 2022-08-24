@@ -71,6 +71,6 @@ Para que este ejercicio funcione, necesitas los siguientes servicios
 
   [Vista previa](https://github.com/LauraBalandran/ESP32CAM-FLOW-DHT11-MQTT-JSON/blob/main/Dashboard-DHT11-SensoresAPI.png) Dashboard Estación de Clima 
   
-  [Vista previa]() Video del funcionamiento General y Dashboard
+  [Vista previa](https://youtu.be/rE47miRQ7R0) Video del funcionamiento General y Dashboard
   
   [Vista previa](https://youtu.be/bem-sdtp2kU) Video del funcionamiento de la Alerta temperatura
